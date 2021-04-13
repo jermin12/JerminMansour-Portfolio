@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/JerminMansour-Portfolio/static/css/main.e9ace754.chunk.css",
+    "main.css": "/JerminMansour-Portfolio/static/css/main.061e2d6e.chunk.css",
     "main.js": "/JerminMansour-Portfolio/static/js/main.9fb50d86.chunk.js",
     "main.js.map": "/JerminMansour-Portfolio/static/js/main.9fb50d86.chunk.js.map",
     "runtime-main.js": "/JerminMansour-Portfolio/static/js/runtime-main.dec2bf64.js",
@@ -10,7 +10,7 @@
     "static/js/3.ed91970d.chunk.js": "/JerminMansour-Portfolio/static/js/3.ed91970d.chunk.js",
     "static/js/3.ed91970d.chunk.js.map": "/JerminMansour-Portfolio/static/js/3.ed91970d.chunk.js.map",
     "index.html": "/JerminMansour-Portfolio/index.html",
-    "static/css/main.e9ace754.chunk.css.map": "/JerminMansour-Portfolio/static/css/main.e9ace754.chunk.css.map",
+    "static/css/main.061e2d6e.chunk.css.map": "/JerminMansour-Portfolio/static/css/main.061e2d6e.chunk.css.map",
     "static/js/2.bfaffdb0.chunk.js.LICENSE.txt": "/JerminMansour-Portfolio/static/js/2.bfaffdb0.chunk.js.LICENSE.txt",
     "static/media/WeatherApp.dd091de1.png": "/JerminMansour-Portfolio/static/media/WeatherApp.dd091de1.png",
     "static/media/App.css": "/JerminMansour-Portfolio/static/media/bg.a0c19713.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.dec2bf64.js",
     "static/js/2.bfaffdb0.chunk.js",
-    "static/css/main.e9ace754.chunk.css",
+    "static/css/main.061e2d6e.chunk.css",
     "static/js/main.9fb50d86.chunk.js"
   ]
 }
