@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/containers/App.css"],"names":[],"mappings":"AAAA,KAEE,2EAA6B,CAC9B,8BAA+B,CAC/B,2BAA4B,CAC3B,yBAA0B,CAC1B,sBAEF","file":"main.d3c8a423.chunk.css","sourcesContent":["body\n{\n  background-image: url(bg.jpg);\n -webkit-background-image: cover;\n -moz-background-image: cover;\n  -o-background-image: cover;\n  background-image: cover;\n \n}\n"]}
